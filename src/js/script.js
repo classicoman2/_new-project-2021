@@ -1,3 +1,3 @@
-console.info("New Project!");
+console.log("New Project!");
 
-alert("New Project!")n
+alert("New Project!")
